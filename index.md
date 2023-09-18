@@ -1,5 +1,7 @@
 # 2023 Notes
+<div style”width: 29px; height: 29px”>
 [![Home Button](homebutton.jpg)](https://chelcey.github.io/2023-Notes/)
+</div>
 ## Contents:
 
 |Page| link|
