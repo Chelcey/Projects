@@ -5,9 +5,7 @@
 
 |Page| link|
 |---------|------------|
-| P.0  | [Contents](https://chelcey.github.io/University-Notes/) |
-| P.1 |[The Basics](https://chelcey.github.io/University-Notes/p1) |
-| P.2 |[Harvard CS-50](https://chelcey.github.io/2023-Notes/p1) |
+| P.1 |[Harvard CS50](https://chelcey.github.io/2023-Notes/p1) |
 
 
 # Harvard CS50 Course Notes
