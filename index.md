@@ -5,9 +5,9 @@
 
 |Page| link|
 |---------|------------|
-| P.1 |[Harvard CS50](https://chelcey.github.io/2023-Notes/p1) |
-| P.2 |[COGS-108](https://chelcey.github.io/2023-Notes/p2) |
-| P.3 |[C++](https://chelcey.github.io/2023-Notes/p3) |
+| P.1 |[Harvard CS50](https://chelcey.github.io/Notes/p1) |
+| P.2 |[COGS-108](https://chelcey.github.io/Notes/p2) |
+| P.3 |[C++](https://chelcey.github.io/Notes/p3) |
 
 # Harvard CS50 Course Notes
 
