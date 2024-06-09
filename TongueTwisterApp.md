@@ -1,4 +1,4 @@
-**Project Title:** 
+<span style="color:MediumBlue;">**Project Title:**  </span> 
 # Don't Get It Twisted [Tongue Twister App]
 
 <span style="color:MediumBlue;">**Class:**  </span> Social Computing
@@ -13,3 +13,6 @@
   - **Wireframes**:
   - **Prototypes**:
   - **Final Design**:
+  - <span style="color:Maroon;"> **Wireframes:**  </span>
+  - <span style="color:Maroon;"> **Prototypes:**  </span>
+  - <span style="color:Maroon;"> **Final Design** </span>
