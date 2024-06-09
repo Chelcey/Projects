@@ -10,9 +10,9 @@
 <span style="color:MediumBlue;">**Research and Inspiration:**  </span>
 
 <span style="color:MediumBlue;">**Design Process:**  </span>
-  - <span style="color:DodgerBlue;"> **Wireframes:**  </span>
-  - <span style="color:DodgerBlue;"> **Prototypes:**  </span>
-  - <span style="color:DodgerBlue;"> **Final Design** </span>
+  - <span style="color:DarkSlateBlue;"> **Wireframes:**  </span>
+  - <span style="color:DarkSlateBlue;"> **Prototypes:**  </span>
+  - <span style="color:DarkSlateBlue;"> **Final Design** </span>
 
 
  
