@@ -5,9 +5,13 @@
 
 <span style="color:MediumBlue;">**Objective:**  </span> To design an engaging platform and challenge for users to improve their pronunciation skills by reciting tongue twisters.
 
-<span style="color:MediumBlue;">**Overview:**  </span> This project involved creating an app to engage users to improve their pronunciation skills using tongue twisters. 
+<span style="color:MediumBlue;">**Overview:**  </span> 
+This project involved creating an app to engage users to improve their pronunciation skills using tongue twisters. 
 
-<span style="color:MediumBlue;">**Research and Inspiration:**  </span>
+<span style="color:MediumBlue;">**Research and Inspiration:**  </span> 
+Conducted online surveys with Students, language learners, gamers (each with varying proficiency levels) to understand more about the challenges faced in learning languages. Analyzed similar apps and tools. 
+
+
 
 <span style="color:MediumBlue;">**Design Process:**  </span>
   - <span style="color:DarkSlateBlue;"> **Wireframes:**  </span>
