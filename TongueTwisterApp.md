@@ -15,6 +15,9 @@ Conducted online surveys with Students, language learners, gamers (each with var
 
 <span style="color:MediumBlue;">**Design Process:**  </span>
   - <span style="color:DarkSlateBlue;"> **Wireframes:**  </span>
+    - Designed wireframes showcasing the app's layout, including sign-up, home section, viewer mode, sudden death, and
+      profile & leaderboard
+    - Emphasized user-friendly design with a clear navigation and easy access to features.
   - <span style="color:DarkSlateBlue;"> **Prototypes:**  </span>
   - <span style="color:DarkSlateBlue;"> **Final Design** </span>
 
