@@ -64,6 +64,6 @@ Conducted online surveys with Students, language learners, gamers (each with var
   - Our journey highlights the signficance of user engagmeent and iterative design from the conceptualization to in-person
     competitons.
   - Future focus will be refining our approach and utilitizing design methodologies to create successful language learning
-    experiences. (focused on physical -> next focus is virtual)
+    experiences. (focused on physical -> next focus is virtual).
 
 <span style="color:MediumBlue;">**Navigation:**  </span>
